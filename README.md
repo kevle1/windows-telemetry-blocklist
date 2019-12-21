@@ -1,8 +1,6 @@
 # Windows Telemetry BlockList
-Blocklist to add to PiHole - Blocks outgoing Microsoft telemetry  
+Blocks outgoing Windows Telemetry 
 
 add to PiHole blocklists by using URL below: 
 
-`https://raw.githubusercontent.com/kevle2/BlocklistWindowsTelemetry/master/Blocklist.txt`
-
-Any issues please let me know.
+`https://raw.githubusercontent.com/kevinle-1/BlocklistWindowsTelemetry/master/Blocklist.txt`
