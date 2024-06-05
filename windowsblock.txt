@@ -59,8 +59,6 @@ h2.msn.com
 hostedocsp.globalsign.com
 i1.services.social.microsoft.com
 i1.services.social.microsoft.com.nsatc.net
-ipv6.msftncsi.com
-ipv6.msftncsi.com.edgesuite.net
 lb1.www.ms.akadns.net
 live.rads.msn.com
 m.adnxs.com
@@ -108,10 +106,8 @@ watson.telemetry.microsoft.com.nsatc.net
 win10.ipv6.microsoft.com
 www.bingads.microsoft.com
 www.go.microsoft.akadns.net
-www.msftncsi.com
 client.wns.windows.com
 wdcp.microsoft.com
-dns.msftncsi.com
 wdcpalt.microsoft.com
 settings-ssl.xboxlive.com
 settings-ssl.xboxlive.com-c.edgekey.net
